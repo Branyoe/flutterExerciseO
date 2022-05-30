@@ -1,4 +1,4 @@
-# ordinario_flutter
+# Flutter Exercise
 
 A new Flutter project.
 
